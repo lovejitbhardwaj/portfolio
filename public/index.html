@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lovejit Bhardwaj · Software Engineer</title>
+    <meta name="description" content="AI-driven portfolio of Lovejit Bhardwaj — full-stack engineer building scalable, secure, cloud-native applications." />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container header-inner">
+        <a class="brand" href="#top" aria-label="Go to top">
+          <div class="badge" aria-hidden="true"></div>
+          <span id="brandName">Lovejit Bhardwaj</span>
+        </a>
+        <nav class="nav" aria-label="Primary">
+          <a href="#about">About</a>
+          <a href="#experience">Experience</a>
+          <a href="#skills">Skills</a>
+          <a href="#projects">Projects</a>
+          <a href="#assistant">AI Assistant</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <a class="btn menu-btn" href="#contact">Contact</a>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="card reveal">
+            <h1 id="heroTitle">Software Engineer & Full‑Stack Developer</h1>
+            <p class="kicker" id="heroSummary">
+              Building scalable applications with microservices, cloud-native solutions, and security-focused engineering.
+            </p>
+            <div class="ctas">
+              <a class="btn primary" href="#assistant">Ask my resume</a>
+              <a class="btn" id="resumeLink" href="/Lovejit_Bhardwaj_Resume%20(3)%20(1).pdf" target="_blank" rel="noreferrer">View resume</a>
+              <a class="btn" id="githubLink" href="#" target="_blank" rel="noreferrer">GitHub</a>
+              <a class="btn" id="linkedinLink" href="#" target="_blank" rel="noreferrer">LinkedIn</a>
+            </div>
+            <div class="pills" id="heroPills" aria-label="Highlights"></div>
+          </div>
+
+          <aside class="card reveal" aria-label="Quick facts">
+            <div class="section-title">Quick Facts</div>
+            <div class="list" id="quickFacts"></div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section" id="about">
+        <div class="container">
+          <h2 class="section-title">About</h2>
+          <div class="card reveal">
+            <p id="aboutText"></p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="experience">
+        <div class="container">
+          <h2 class="section-title">Experience</h2>
+          <div class="list" id="experienceList"></div>
+        </div>
+      </section>
+
+      <section class="section" id="skills">
+        <div class="container">
+          <h2 class="section-title">Skills</h2>
+          <div class="grid-2">
+            <div class="card reveal">
+              <div class="list" id="skillsList"></div>
+            </div>
+            <div class="card reveal">
+              <div class="section-title">What I focus on</div>
+              <ul class="ul" id="focusList"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="projects">
+        <div class="container">
+          <h2 class="section-title">Projects</h2>
+          <div class="list">
+            <div class="item reveal">
+              <h3>Featured projects</h3>
+              <div class="meta">Add your top 3–6 projects here (I can generate these once you tell me your project names/links).</div>
+              <ul class="ul">
+                <li>Project 1 — one-line impact statement</li>
+                <li>Project 2 — one-line impact statement</li>
+                <li>Project 3 — one-line impact statement</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="assistant">
+        <div class="container">
+          <h2 class="section-title">AI Resume Assistant (Local)</h2>
+          <div class="grid-2">
+            <div class="card reveal">
+              <p class="kicker">
+                Ask questions about my resume (experience, skills, impact). This assistant runs fully in your browser and answers using semantic-style matching over my resume text.
+              </p>
+              <div class="chat" role="application" aria-label="Resume assistant chat">
+                <div class="chat-log" id="chatLog" aria-live="polite"></div>
+                <form class="chat-form" id="chatForm">
+                  <input class="input" id="chatInput" placeholder="e.g., What did you build at Schneider Electric?" autocomplete="off" />
+                  <button class="btn primary" type="submit">Ask</button>
+                </form>
+              </div>
+            </div>
+            <div class="card reveal">
+              <div class="section-title">Try these</div>
+              <ul class="ul" id="promptList"></ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="contact">
+        <div class="container">
+          <h2 class="section-title">Contact</h2>
+          <div class="grid-2">
+            <div class="card reveal">
+              <div class="list" id="contactList"></div>
+            </div>
+            <div class="card reveal">
+              <div class="section-title">Note</div>
+              <p class="kicker">
+                If you want the AI assistant to be a real LLM chatbot for all visitors, we can upgrade this to a secure Firebase Cloud Function later (requires enabling billing, but can still stay near $0/month under free quotas).
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <div class="container">
+          <div>© <span id="year"></span> <span id="footerName"></span>. Built for Firebase Hosting.</div>
+        </div>
+      </footer>
+    </main>
+
+    <script src="/resume-data.js"></script>
+    <script src="/main.js"></script>
+  </body>
+</html>

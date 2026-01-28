@@ -1,0 +1,74 @@
+Lovejit Bhardwaj
+Software Engineer& Full Stack Developer
+♂phone+91-9588164235 | /envel⌢pelovejitbhardwaj2000@gmail.com | /linkedinlinkedin.com/in/lovejit-bhardwaj-33b2a61a0
+| /githubGitHub
+Gurgaon, Haryana, India
+Professional Summary
+Software Engineer with expertise in full-stack development and AI/ML technologies at Schneider Electric.
+Specialized in building scalable applications with microservices architecture, cloud-native solutions, and
+cybersecurity analysis. Passionate about creating AI-driven applications that solve real-world problems while
+maintaining high performance and security standards.
+Professional Experience
+Software Development Engineer March 2023 – Present
+Schneider Electric Bangalore, India
+• Contributed for Topology Service .NET based Micro service to achieve physical and logical view of embedded devices
+to make search 99% more efficient and create and update assets
+• Led CI/CD pipeline migration from Bicep to GitHub Actions/Terraform, reducing deployment time by 40% while
+maintaining 90% code coverage standards including Report Service, EPC Web, and Topology Service, adhering to
+SOCOGO guidelines.
+• Implemented monitoring solutions using Dynatrace and JFrog, conducted Python AI/ML POCs, and managed Azure
+Container Apps optimization
+• Cybersecurity analyses using Synopsis BDBA, BDH, Coverity, and Prisma scans. - Migrated Azure subscriptions to
+East US and France for multi-region high availability.
+• Working on project of Eco Sustain web app using Angular 16 and integrated RESTful APIs and micro-Services, while
+also implementing robust back-end logic with Node.js & java. Applied Agile DevOps practices for seamless
+collaboration, CI/CD automation, and deployment on cloud platforms.
+Machine Learning Intern Jul 2022 – Aug 2022
+DawnBit Gurgaon, India
+• Developed AI-based Student Management System with automated grading and notification features, reducing manual
+processing time by 60%
+• Implemented unsupervised clustering algorithms for predictive modeling and applied ETL processes, improving model
+accuracy by 15%
+Data Science Intern Jun 2022
+Make-Me-Builder Gurgaon, India
+• Created optimized Python algorithms for data extraction achieving 40% efficiency improvement, performed
+comprehensive EDA and deployed ML models via Zoho Campaign integration
+Key Projects
+AI-Based Smart Traffic Control System | Python, TensorFlow, YOLOv8, Django, Angular Live Demo
+• Engineered computer vision system using YOLOv8 for real-time vehicle detection with 95% accuracy, reducing traffic
+wait time by 35%
+• Built full-stack application with Angular frontend, Django backend, and integrated edge computing for IoT traffic
+management
+Medical AI Diagnostic Platform | TensorFlow, React.js, Node.js, MySQL GitHub
+• Developed ML models for breast cancer & diabetes prediction achieving 96% accuracy using CNN, DenseNet,
+ResNet50, VGG16 architectures
+• Built responsive React.js frontend with secure authentication and RESTful APIs for real-time prediction results
+Real-Time Chat Application | React.js, Firebase, Chat Engine Live App
+• Built scalable messaging platform with Google/Facebook OAuth, React Context API, and Firebase deployment with
+automated CI/CD
+
+Certifications & Achievements
+Xtra - Miler Award ExcellenSE Awards Schneider Digital India
+Cloud Certifications: Google Cloud Platform (GCP) Certified, AWS Cloud Computing Fundamentals, Google Cloud
+Qwiklabs (30+ challenges)
+Data Science: IBM Data Analysis for Machine Learning, IBM Data Analysis with Python, Google Data Analytics
+Specialization
+Recognition: Army Welfare Education Society Merit Certificate, 200+ algorithmic problems solved (LeetCode,
+GeeksforGeeks)
+Professional: All certificates available on LinkedIn
+Education
+Bachelor of Technology in Computer Science (Data Science) Aug 2019 -Jun 2023
+The Northcap University Gurgaon, Haryana (CGPA: 8.31/10)
+Diploma in Computer Applications 2019
+TECH Institute Bangalore, India (Grade: A+)
+Technical Skills
+Programming Languages: Python, JavaScript/TypeScript, Java, C#, Go, SQL, HTML5/CSS3
+AI/ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib
+Frontend Technologies: Angular 16+, React.js, jQuery, Responsive Web Design, Bootstrap
+Backend Technologies: Node.js, ASP.NET Core, Express.js, Django, Flask, RESTful APIs, Microservices
+Cloud & DevOps: Azure, AWS, Docker, Kubernetes, GitHub Actions, Terraform, CI/CD Pipelines
+Cybersecurity Tools: Prisma Cloud, Coverity, Black Duck, sonar qube
+Databases & Tools: MySQL, MongoDB, Git, Postman, Dynatrace, JFrog, Tableau
+Additional Information
+Languages: English (Fluent), Hindi (Native) Interests: Open Source Contributions, Cricket, Technology Blogging,
+Music
