@@ -5,7 +5,7 @@ html {
 }
 
 :root {
-  --background: #0a0a0a;
+  --background: #070912;
   --foreground: #ededed;
 }
 
@@ -37,8 +37,9 @@ body::before {
   inset: 0;
   pointer-events: none;
   background:
-    radial-gradient(900px 500px at 10% 10%, rgba(59, 130, 246, 0.18), transparent 60%),
-    radial-gradient(700px 500px at 90% 20%, rgba(16, 185, 129, 0.14), transparent 55%);
+    radial-gradient(1000px 600px at 12% 8%, rgba(59, 130, 246, 0.20), transparent 60%),
+    radial-gradient(900px 600px at 88% 18%, rgba(16, 185, 129, 0.16), transparent 58%),
+    radial-gradient(900px 700px at 55% 95%, rgba(56, 189, 248, 0.10), transparent 60%);
   z-index: -1;
   animation: bg-float 14s ease-in-out infinite;
 }
